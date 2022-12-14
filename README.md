@@ -24,8 +24,8 @@ py -m pip install pygame
 
 ## How To Play
 ---
-* Left arrow  => 
-* Right arrow => 
+* Left arrow  => key A
+* Right arrow => key D
 * Space Bar   => shoot 
 
 
